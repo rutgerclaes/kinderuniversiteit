@@ -17,7 +17,7 @@ Op de computer gaan we software schrijven.  Dat doen we in een taal die *Scratch
 
 ## Scratch
 
-Je kan Scratch starten door op je bureablad op het kat icoontje te drukken.
+Je kan Scratch starten door op je bureaublad op het kat icoontje te drukken.
 
 ![Scratch icoon](images/icon.png)
 
@@ -96,10 +96,10 @@ Maak een verkeerslicht voor voetgangers dat rood, groen en oranje wordt.  Wannee
 
 Maak een verkeerslicht voor blinden.  Maak een verkeerslicht dat rood, groen en oranje wordt.  Wanneer iemand op de knop drukt zal tijdens de volgende groene periode de zoemer geluid maken.  Als niemand op de knop gedrukt heeft moet de zoemer geen geluid maken.
 
-### Reactie tijd testen
+### Reactietijd testen
 
-Maak een programma dat iemands reactie tijd kan testen.  Laat eerst alle drie de lichtjes branden en doe ze daarna één voor één uit.  Wanneer het laatste lichtje uit is moet je zo snel mogelijk op de knop drukken.  Je programma meet de tijd.
+Maak een programma dat iemands reactietijd kan testen.  Laat eerst alle drie de lichtjes branden en doe ze daarna één voor één uit.  Wanneer het laatste lichtje uit is moet je zo snel mogelijk op de knop drukken.  Je programma meet de tijd.
 
 ### Simon Says
 
-Maak een geheugen spelletje.  Je spelletje laat een aantal lampjes branden.  Elk lampje komt overeen met een toets op het toetsenbord (bijvoorbeeld rood: J, geel: K en groen: L).  De speler moet die toetsen in dezelfde volgorde indrukken om naar het volgende level te gaan.  In het volgende level zuller er meer lampjes gaan branden.
+Maak een geheugen spelletje.  Je spelletje laat een aantal lampjes branden.  Elk lampje komt overeen met een toets op het toetsenbord (bijvoorbeeld rood: J, geel: K en groen: L).  De speler moet die toetsen in dezelfde volgorde indrukken om naar het volgende level te gaan.  In het volgende level zullen er meer lampjes gaan branden.
