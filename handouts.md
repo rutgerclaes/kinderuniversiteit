@@ -19,15 +19,15 @@ Op de computer gaan we software schrijven.  Dat doen we in een taal die *Scratch
 
 Je kan Scratch starten door op je bureablad op het kat icoontje te drukken.
 
-[ Image of Scratch Icon]
+![Scratch icoon](images/icon.png)
 
 Je krijgt dan dit te zien
 
-[ Image of Scratch with dialog box]
+![Scratch programmeer omgeving en GPIO melding](images/scratch-gpio.png)
 
 Die boodschap wil zeggen dat Scratch klaar is om je verkeerslicht aan te sturen.  Dit is een Scratch venster waarin de bouwblokken voor het verkeerslicht al gemaakt zijn.
 
-[ Image of a block ]
+![Scratch blokje](images/traffichat-block.png)
 
 Om Scratch samen met het verkeerslicht te gebruiken moet je deze blokjes altijd in je programma hebben staan.  Ze vertellen Scratch dat je met een TrafficHat zal werken.
 
@@ -35,7 +35,7 @@ Om Scratch samen met het verkeerslicht te gebruiken moet je deze blokjes altijd 
 
 Elk van die blokjes is een instructie voor je computer.  Als je blokjes aan elkaar hangt zullen ze in die volgorde uitgevoerd worden.
 
-[ Image of a block sequence ]
+![Scratch blokjes](images/sequence.png)
 
 Deze blokjes zullen bijvoorbeeld eerst het rode lampje aanzetten.  Daarna 2 tellen wachten en dan het rode lampje terug uitschakelen.
 
@@ -43,35 +43,35 @@ Deze blokjes zullen bijvoorbeeld eerst het rode lampje aanzetten.  Daarna 2 tell
 
 Je kan het uitvoeren van blokjes herhalen.  Het programma hieronder zal het rode lichtje 10 keer laten knipperen.  Het `herhaal` blok herhaalt de blokjes die er in zitten 10 keer.
 
-[ Image repeat ]
+![Herhalen in Scratch](images/repeat.png)
 
 ### Kiezen
 
 Je kan in je programma ook keuzes maken.  Het programma hieronder vraagt aan de gebruiker welke kleur er moet gaan branden.  Daarna kiest het programma op basis van het antwoord welk lichtje gaat branden.
 
-[ Image choice ]
+![Kiezen in Scratch](images/choice.png)
 
 ### Lichtjes bedienen
 
 Je kan de lichtjes bedienen door een *signaal* te verzenden.  Dat signaal is dan een kleur ( `red`, `green`, `orange` ) samen met `on` om de lamp aan te zetten of `off` om de lamp uit te zetten.
 
-[ Image of LED signals ]
+![De lampjes aan en uit zetten](images/leds.png)
 
 ### Zoemer bedienen
 
 De zoemer bedien je net zoals de lichtjes.  Je stuurt een signaal naar de `buzzer`.  Gebruik de zoemer niet te vaak, anders gaat iedereen vanavond met hoofdpijn naar huis.
 
-[ Image of buzzer signal ]
+![De zoemer aan en uit zetten](images/buzzer.png)
 
 ### Drukknop gebruiken
 
 De drukknop gebruiken is wat moeilijker.  Je kan in je programma wachten tot er op de drukknop gedrukt wordt.  Onderstaand voorbeeld zal bijvoorbeeld het rode lampje laten branden totdat er op de knop gedrukt wordt.  Daarna gaat het lampje 2 tellen uit en start het programma opnieuw.
 
-[ Image of push button control ]
+![De drukknop gebruiken](images/button.png)
 
 Je kan je push button ook een signaal laten verzenden.  Dat doe je zo:
 
-[ Image of push button signal ]
+![De drukknop een signaal laten verzenden](images/button-signal.png)
 
 ## Opdrachtjes
 
