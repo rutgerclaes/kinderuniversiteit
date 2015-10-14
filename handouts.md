@@ -47,7 +47,9 @@ Je kan het uitvoeren van blokjes herhalen.  Het programma hieronder zal het rode
 
 ### Kiezen
 
-Je kan in je programma ook keuzes maken.  Het programma hieronder vraagt aan de gebruiker welke kleur er moet gaan branden.  Daarna kiest het programma op basis van het antwoord welk lichtje gaat branden.
+Je kan in je programma ook keuzes maken.  In het programma hieronder vraagt de
+Scratch kat aan de gebruiker welke kleur er moet gaan branden.  Daarna kiest
+het programma op basis van het antwoord welk lichtje gaat branden.
 
 ![Kiezen in Scratch](images/choice.png)
 
@@ -65,17 +67,24 @@ De zoemer bedien je net zoals de lichtjes.  Je stuurt een signaal naar de `buzze
 
 ### Drukknop gebruiken
 
-De drukknop gebruiken is wat moeilijker.  Je kan in je programma wachten tot er op de drukknop gedrukt wordt.  Onderstaand voorbeeld zal bijvoorbeeld het rode lampje laten branden totdat er op de knop gedrukt wordt.  Daarna gaat het lampje 2 tellen uit en start het programma opnieuw.
+De drukknop gebruiken is wat moeilijker.  Je kan in je programma wachten tot er
+op de drukknop gedrukt wordt.  Onderstaand voorbeeld zal bijvoorbeeld het rode
+lampje laten branden totdat er op de knop gedrukt wordt.  Daarna gaat het
+lampje 2 tellen uit en start het programma opnieuw.
 
 ![De drukknop gebruiken](images/button.png)
 
-Je kan je push button ook een signaal laten verzenden.  Dat doe je zo:
+Ken je al een beetje Scratch en wil je met signalen werken?  Dat kan ook.  Je
+kan je push button ook een signaal laten verzenden.  Dat doe je zo:
 
 ![De drukknop een signaal laten verzenden](images/button-signal.png)
 
 ## Opdrachtjes
 
-Je mag bouwen wat je wil.  Een verkeerslicht, een spelletje of iets anders.  Je kan de lichtjes, de zoemer en de drukknop gebruiken zoals je zelf wil.  Als je niet direct weet wat te doen hebben we hier zelf wat ideetjes.
+We starten allemaal samen met een eenvoudig voorbeeldje.  Daarna mag je bouwen
+wat je wil.  Een verkeerslicht, een spelletje of iets anders.  Je kan de
+lichtjes, de zoemer en de drukknop gebruiken zoals je zelf wil.  Als je niet
+direct weet wat te doen hebben we hier zelf wat ideetjes.
 
 ### Een eenvoudig verkeerslicht
 
