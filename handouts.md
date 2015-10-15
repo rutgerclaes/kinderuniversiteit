@@ -72,7 +72,7 @@ op de drukknop gedrukt wordt.  Onderstaand voorbeeld zal bijvoorbeeld het rode
 lampje laten branden totdat er op de knop gedrukt wordt.  Daarna gaat het
 lampje 2 tellen uit en start het programma opnieuw.
 
-![De drukknop gebruiken](images/button.png)
+![De drukknop gebruiken](images/button-sequence.png)
 
 Ken je al een beetje Scratch en wil je met signalen werken?  Dat kan ook.  Je
 kan je push button ook een signaal laten verzenden.  Dat doe je zo:
