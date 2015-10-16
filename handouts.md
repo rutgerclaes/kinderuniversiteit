@@ -78,10 +78,13 @@ lampje 2 tellen uit en start het programma opnieuw.
 
 ![De drukknop gebruiken](images/button-sequence.png)
 
-Ken je al een beetje Scratch en wil je met signalen werken?  Dat kan ook.  Je
-kan je push button ook een signaal laten verzenden.  Dat doe je zo:
+In Scratch kan je ook <i>interne</i> signalen versturen, die een ander stukje van je programma kunnen activeren. Ken je al een beetje Scratch en wil je met zo een signalen werken?  Dat kan zeker.  Bijvoorbeeld, je kan je push butten een intern signaal laten verzenden, als volgt:
 
 ![De drukknop een signaal laten verzenden](images/button-signal.png)
+
+### Overige blokjes
+
+Kijk eens rond in de verschillende categorien van blokjes. Er bestaan bijvoorbeeld ook blokjes om de kat iets te doen zeggen, om de tijd te meten, om een willekeurig getal te genereren, om variabelen te maken enzomeer.
 
 ## Opdrachtjes
 
