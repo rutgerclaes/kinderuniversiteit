@@ -2,12 +2,12 @@ Vandaag leer je programmeren.  Je leert hoe je vanuit een software programma lam
 
 ## Bouwblokken
 
-We gaan vandaag op een bijzondere computer werken: een *Raspberry Pi*.  Dat is een erg kleine computer die je toelaat andere dingen, zoals lampjes, aan te sturen.
+We gaan vandaag op een bijzondere computer werken: een *Raspberry Pi*.  Dat is een erg kleine computer die je gemakkelijk toelaat andere dingen, zoals lampjes, aan te sturen.
 
 ![Raspberry Pi computer](images/raspberrypi.jpg)
 
 Bovenop die computer gebruiken we een *Traffic Hat*.  Dit bordje heeft 3 LEDs, een drukknop en een zoemer.  Al die dingen zijn 
-verbonden met de computer en kan je vanop de computer besturen.
+verbonden met de computer via pinnetjes. Je computer kan dan signalen versturen over die pinnetjes en zo de lampjes, zoemer en knop besturen.
 
 ![TrafficHat bord](images/traffichat.jpg)
 
