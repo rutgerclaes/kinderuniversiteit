@@ -118,7 +118,7 @@ Maak een verkeerslicht voor blinden.  Maak een verkeerslicht dat rood, groen en 
 
 ### Simon Says
 
-Maak een geheugen spelletje.  Je spelletje laat een aantal lampjes branden.  Elk lampje komt overeen met een toets op het toetsenbord (bijvoorbeeld rood: J, geel: K en groen: L).  De speler moet die toetsen in dezelfde volgorde indrukken om naar het volgende level te gaan.  In het volgende level zullen er meer lampjes gaan branden.
+Maak een geheugen spelletje.  Je spelletje laat een aantal lampjes branden.  Elk lampje komt overeen met een toets op het toetsenbord (bijvoorbeeld rood: J, geel: K en groen: L).  De speler moet op het keyboard die toetsen in dezelfde volgorde indrukken om naar het volgende level te gaan.  In het volgende level zullen er meer lampjes gaan branden.
 
 ### Reactietijd uitbreiding
 
