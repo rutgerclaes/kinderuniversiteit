@@ -31,6 +31,8 @@ Die boodschap wil zeggen dat Scratch klaar is om je verkeerslicht aan te sturen.
 
 Om Scratch samen met het verkeerslicht te gebruiken moet je deze blokjes altijd in je programma hebben staan.  Ze vertellen Scratch dat je met een TrafficHat zal werken.
 
+Tip: de andere blokjes kan je best ook ergens in je venster laten, dan kan je ze gemakkelijk kopieren (rechtermuisclick -> kopieren).
+
 ### Scratch blokjes
 
 Elk van die blokjes is een instructie voor je computer.  Als je blokjes aan elkaar hangt zullen ze in die volgorde uitgevoerd worden.
@@ -38,6 +40,8 @@ Elk van die blokjes is een instructie voor je computer.  Als je blokjes aan elka
 ![Scratch blokjes](images/sequence.png)
 
 Deze blokjes zullen bijvoorbeeld eerst het rode lampje aanzetten.  Daarna 2 tellen wachten en dan het rode lampje terug uitschakelen.
+
+Opgelet, indien er geen 'wacht' tussen een aan en een uit signaal staat zal het lampje enkel het eerste signaal ontvangen en dus niet uitgaan.
 
 ### Herhalen
 
@@ -48,7 +52,7 @@ Je kan het uitvoeren van blokjes herhalen.  Het programma hieronder zal het rode
 ### Kiezen
 
 Je kan in je programma ook keuzes maken.  In het programma hieronder vraagt de
-Scratch kat aan de gebruiker welke kleur er moet gaan branden.  Daarna kiest
+Scratch kat op het computer scherm welke kleur er moet gaan branden. De gebruiker kan dan een antwoord invullen in het tekstvakje onder de kat. Daarna kiest
 het programma op basis van het antwoord welk lichtje gaat branden.
 
 ![Kiezen in Scratch](images/choice.png)
