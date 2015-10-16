@@ -97,9 +97,9 @@ direct weet wat te doen hebben we hier zelf wat ideetjes.
 
 Maak een eenvoudig verkeerslicht dat:
 
-1. Eerst 8 tellen rood is
-2. Daarna 8 tellen groen is
-3. Daarna 3 tellen oranje is
+1. Eerst 6 tellen rood is
+2. Daarna 6 tellen groen is
+3. Daarna 2 tellen oranje is
 4. Terug rood wordt
 
 Het verkeerslicht blijft zo maar verder veranderen in de volgorde die jij programmeert.
