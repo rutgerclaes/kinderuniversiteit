@@ -65,11 +65,15 @@ Je kan de lichtjes bedienen door een *signaal* te verzenden.  Dat signaal is dan
 
 ![De lampjes aan en uit zetten](images/leds.png)
 
+<!-- Let's leave the buzzer out :smile:
+
 ### Zoemer bedienen
 
 De zoemer bedien je net zoals de lichtjes.  Je stuurt een signaal naar de `buzzer`.  Gebruik de zoemer niet te vaak, anders gaat iedereen vanavond met hoofdpijn naar huis.
 
 ![De zoemer aan en uit zetten](images/buzzer.png)
+
+-->
 
 ### Drukknop gebruiken
 
@@ -110,6 +114,10 @@ Het verkeerslicht blijft zo maar verder veranderen in de volgorde die jij progra
 
 Maak een verkeerslicht voor voetgangers dat steeds rood is. Als een voetganger wil oversteken ken die via de drukknop vragen om direct groen te worden. Daarna moet het verkeerslicht oranje en daarna weer rood worden.
 
+### Racewagen
+
+Maak een spelletje waarin je een racewagen laat verder rijden door op de drukknop te drukken.  Je mag pas vertrekken wanneer de groene LED aangaat.  Telkens je op de drukknop drukt gaat de racewagen een beetje verder.  Wanneer je de finish bereikt kan je de rode LED laten branden.
+
 ### Reactietijd testen
 
 Maak een programma dat iemands reactietijd kan testen.  Laat eerst alle drie de lichtjes branden en doe ze daarna één voor één uit.  Wanneer het laatste lichtje uit is moet je zo snel mogelijk op de knop drukken.  Je programma meet de tijd.
@@ -126,3 +134,6 @@ Maak een geheugen spelletje.  Je spelletje laat een aantal lampjes branden.  Elk
 
 Maak een programma dat reflexen en reactietijd meet. Laat ofwel het groene lampje, ofwel alle lampjes branden. Indien het groene lampje brand meet je de reactietijd voor de gebruiker op de knop duwt. Indien alle lampjes branden en de gebruiker duwt op de knop is hij mis en laat je bijvoorbeeld de zoemer gaan.
 
+## Thuis verder werken?
+
+We kunnen je de Raspberry Pi niet mee naar huis geven.  Maar dat wil niet zeggen dat je thuis niet zelf met Scratch aan de slag kan.  Ga naar [http://scratch.mit.edu](http://scratch.mit.edu) en je kan op je eigen computer Scratch programma's schrijven.  Je hoeft niets te installeren.  Deze online versie van Scratch is nieuwer dan de versie op onze Raspberry Pi's.  Je kan er geen LEDs mee aansturen, maar wel bijvoorbeeld leuke spelletjes maken.
